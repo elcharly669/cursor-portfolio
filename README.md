@@ -58,10 +58,6 @@ If that fails, Anthropic documents a manual VSIX install from the local Claude C
 
 **Solution:** Initialized git locally, created this README, then used `gh repo create` to create the public remote and pushed `main`.
 
-## Link for the application reply
-
-**README on GitHub:** https://github.com/elcharly669/cursor-portfolio/blob/main/README.md
-
 ---
 
 *Repository created as part of the portfolio onboarding step. The project itself will be built in later steps.*
